@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "386607537119",
+    "firebase_url": "https://advancedtodo-7618b.firebaseio.com",
+    "project_id": "advancedtodo-7618b",
+    "storage_bucket": "advancedtodo-7618b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386607537119:android:7f11aa5d91155ffb0b026a",
+        "android_client_info": {
+          "package_name": "bkp.com.advancedtodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386607537119-0u39irno0q559fh38pokunthqq5h85u1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bkp.com.advancedtodo",
+            "certificate_hash": "dad7a9872192d7c346f16e6dff49ab5e6d04a510"
+          }
+        },
+        {
+          "client_id": "386607537119-ipgr3kppnqsiko63q4t06f53l1gpp34a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAged4Frm9wK2DN09Qbv712GUQGtilgVws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386607537119-ipgr3kppnqsiko63q4t06f53l1gpp34a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
